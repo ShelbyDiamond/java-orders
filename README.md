@@ -1,6 +1,6 @@
 # java-orders
 
-A student that completes this project shows that they can:
+[x] A student that completes this project shows that they can:
 * perform CRUD operations on an RDBMS using JPA and Hibernate.
 
 ## Introduction
